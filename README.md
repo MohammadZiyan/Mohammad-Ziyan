@@ -1,4 +1,3 @@
-# Mohammad-Ziyan
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>🔭 **Currently Working On:**  <br>Developing a blockchain-based Electronic Health Record (EHR) system with secure access control mechanisms to ensure data privacy and integrity.<br><br>👯 **Open to Collaborate On:**  <br>Blockchain-based applications, decentralized systems, and product management-driven technology projects.<br><br>🤝 **Seeking Help With:**  <br>Improving smart contract security, optimizing decentralized architectures, and scaling blockchain-based applications.<br><br>🌱 **Currently Learning:**  <br>Full-Stack Blockchain Development, Smart Contract Development, and System Design.<br><br>💬 **Ask Me About:**  <br>Blockchain technology, web development, product strategy, and building scalable tech solutions.<br><br>⚡ **Fun Fact:**  <br>I enjoy transforming innovative ideas into practical technology solutions that solve real-world problems.
 
@@ -25,4 +24,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MohammadZiyan&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
